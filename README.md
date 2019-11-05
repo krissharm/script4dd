@@ -1,0 +1,2 @@
+# power
+# script4dd
